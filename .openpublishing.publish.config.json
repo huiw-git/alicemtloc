@@ -5,23 +5,9 @@
   "docsets_to_publish": [
     {
       "docset_name": "mtloc",
-      "build_source_folder": "wh/loc/zh-cn",
+      "build_source_folder": "wh/loc",
       "build_output_subfolder": "wh/loc",
       "locale": "zh-cn",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "op"
-    },
-    {
-      "docset_name": "mtloc",
-      "build_source_folder": "wh/loc/de-de",
-      "build_output_subfolder": "wh/loc",
-      "locale": "de-de",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
