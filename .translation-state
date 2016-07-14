@@ -1,0 +1,28 @@
+{
+  "LastProcessedCommit": "55280abf1d1530ee5686254432104794adc386e9",
+  "LastTranslatedCommit": "09df03dde3993b822623b8e13b7e4ee46ae7a97d",
+  "Items": {
+    "7d90a63d4f1dba55f8f576aa6fe6ff3392cb7bd0": {
+      "FileHash": "7d90a63d4f1dba55f8f576aa6fe6ff3392cb7bd0",
+      "SourceFileCommit": "1737af58018b4af2dee79c800592347e44469988",
+      "SourceFilePath": "mt\\ps2\\TOC.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "mt\\ps2\\TOC.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffPriority": "",
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "09df03dde3993b822623b8e13b7e4ee46ae7a97d",
+      "TargetFilePath": "mt\\ps2\\TOC.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    }
+  }
+}
