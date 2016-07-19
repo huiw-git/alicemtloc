@@ -1,5 +1,416 @@
 {
-  "7d90a63d4f1dba55f8f576aa6fe6ff3392cb7bd0": [
-    "mt\\ps2\\TOC.md"
+  "4cf037637daf0b0f0d93dcf2a61d62d4176339b3": [
+    "mt\\ems\\TOC.md"
+  ],
+  "15a36aa4f321d52612c4e08cfc0ab72236830e3a": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Activating-Azure-Rights-Management.md"
+  ],
+  "ba27962698ca102a1c5d1f26b297435df5e84d37": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Administering-Azure-Rights-Management-by-Using-Windows-PowerShell.md"
+  ],
+  "59785c664ad86ccf35b3309f35cbd92232c58b4b": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Azure-Rights-Management-Deployment-Roadmap.md"
+  ],
+  "6539a18345380fe1730802ffc864076b6b02f57a": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Azure-Rights-Management.md"
+  ],
+  "9a5d5ba846b99889336ddc54e9a67e1902a5e7f2": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Comparing-Azure-Rights-Management-and-AD-RMS.md"
+  ],
+  "16ee77a16c406a1930ab23fb4200eecec5cd0b40": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Applications-for-Azure-Rights-Management.md"
+  ],
+  "011a2f43d71a92ddf7b9d5d9ca9f6321e4ba53ae": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Azure-Rights-Management.md"
+  ],
+  "bb5a7fd0fe44db659befe79b2dd65a083ce4819f": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Custom-Templates-for-Azure-Rights-Management.md"
+  ],
+  "b727ce894df9e9285c5a33f7f4485ee273179d16": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Super-Users-for-Azure-Rights-Management-and-Discovery-Services-or-Data-Recovery.md"
+  ],
+  "6dca3135aa3a6e72ad2ab22a5508a238dd932397": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Configuring-Usage-Rights-for-Azure-Rights-Management.md"
+  ],
+  "87d255cfb2b3c852f8a488ba1e751ce3ca1711a5": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Decommissioning-and-Deactivating-Azure-Rights-Management.md"
+  ],
+  "22019a83d8325b2304b38154ac243c93409553db": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Deploying-the-Azure-Rights-Management-Connector.md"
+  ],
+  "bbad6666710888af1b5002fb35f67d30005d4f82": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Frequently-Asked-Questions-for-Azure-Rights-Management.md"
+  ],
+  "c27c3b355406840f5ee1c91f8a7c9a46a3fc111d": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--A-SharePoint-protected-document.md"
+  ],
+  "f996f7cd78bca2069f5d9888532f3df7cdd1029b": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Activating-Rights-Management.md"
+  ],
+  "5689eed833b23a582498cb80dde5c340600c8379": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Alice-gets-email-notification.md"
+  ],
+  "4b594c75a7b912b64a51d7a82b5f1748cccaf381": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Alice-shares-protected-attachment.md"
+  ],
+  "45fefa1110f59414b7687b5f67d6ba3579a161e7": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--An-external-email-protected-by-DLP-and-Azure-RMS.md"
+  ],
+  "a445ffc20ff2ba0a851dd50d97a7a881f450edfb": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--An-unprotected-email--internal-.md"
+  ],
+  "f16c144d2214e9e1ab463c022359b2e50ffb61e2": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Available-settings-for-RMS-templates.md"
+  ],
+  "62df6128ac05ed330c8cacf8b4065329fb2d4294": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Bob-opens-the-attachment-on-his-iPad.md"
+  ],
+  "826780c10866535a662cca3a070874cdc9b247f6": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Bob-sees-the-email-on-his-iPad.md"
+  ],
+  "087858e7aa7fce352afc39ff3717101f54771203": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Confidential-report-accidentally-sent-to-wrong-person.md"
+  ],
+  "7ca8c65c64f2e49a0bb523bf4604a3d264b74bf3": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Configuring-DLP-for-Azure-RMS.md"
+  ],
+  "805f444a88a75ccb0d95392a656164c5fea722be": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Configuring-FCI-for-the-Marketing-classification.md"
+  ],
+  "7b54bb76e2a62ed5f686be098ac4584006c6c223": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Enabling-IRM-for-a-library.md"
+  ],
+  "44c4ba4cbca9a74a309f1fff37e6ffa01c014e92": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Enabling-IRM-on-SharePoint-Online.md"
+  ],
+  "6a783125056a13ce18391fcda3b65e72c573231b": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Installing-and-Configuring-the-RMS-connector-for-FCI.md"
+  ],
+  "4eb74c8df5b421c02461759a047ce93974485e77": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--RMS-templates-in-the-Azure-Management-Portal.md"
+  ],
+  "a622b397c2d24c7277103c14a3b044abf89692c3": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Full-screen-picture--Select-RMS-templates-in-applications--such-as-File-Explorer-and-Word.md"
+  ],
+  "65c4071a278552f0cfbf5703735f8ca97d63d154": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Getting-Started-with-Azure-Rights-Management.md"
+  ],
+  "60a51263705c5245afce5fb5891bb76ae3e21ffc": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Helping-Users-to-Protect-Files-by-Using-Azure-Rights-Management.md"
+  ],
+  "4a44a30e334d46fd757c58b855b7bda9821f9eab": [
+    "mt\\ems\\ems\\AADRightsMgmt\\How-Applications-Support-Azure-Rights-Management.md"
+  ],
+  "3023ffd488f373190f2a8d7d97f84beae5460b34": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Information-and-Support-for-Azure-Rights-Management.md"
+  ],
+  "231ef921ef61c2dd3825c25b1542fd8ffa6de938": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Installing-Windows-PowerShell-for-Azure-Rights-Management.md"
+  ],
+  "33c151eaf3bd518d59959ca7519dad7cff594053": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Logging-and-Analyzing-Azure-Rights-Management-Usage.md"
+  ],
+  "1e4a7847cf84ac3f95659073e58bc6ab58886f7e": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Migrating-from-AD-RMS-to-Azure-Rights-Management.md"
+  ],
+  "6aac4c388bfa21ac0170ea4d2d21936b8c9c9de9": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Operations-for-Your-Azure-Rights-Management-Tenant-Key.md"
+  ],
+  "f6f7c1acc423730bdb397ef5ab3ef238e051e242": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Planning-and-Implementing-Your-Azure-Rights-Management-Tenant-Key.md"
+  ],
+  "f0301dcf0c915216d720d338ad635e596a129cf8": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Preparing-for-Azure-Rights-Management.md"
+  ],
+  "a1ca15dfae440fcec4fd1f1207f897fe9807a2e6": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Quick-Start-Tutorial-for-Azure-Rights-Management.md"
+  ],
+  "9a90acddd77b7f0ac5857dc4da3d6963c347f3b6": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Requirements-for-Azure-Rights-Management.md"
+  ],
+  "f6fbf2fdad50f1674b0b46659c741d7848629f11": [
+    "mt\\ems\\ems\\AADRightsMgmt\\RMS-for-Individuals-and-Azure-Rights-Management.md"
+  ],
+  "3fed8d6e45fe67ec5bb8a32dc9ea61c08f681d9c": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Terminology-for-Azure-Rights-Management.md"
+  ],
+  "e692006da40fdc742d733e8451071fa02ac16103": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Using-Azure-Rights-Management.md"
+  ],
+  "7a9e7aacc06644716d94fa1c71b36bb726571c71": [
+    "mt\\ems\\ems\\AADRightsMgmt\\Verifying-Azure-Rights-Management.md"
+  ],
+  "75954cfc18496ed96d8f296dfb2f4598b69af053": [
+    "mt\\ems\\ems\\AADRightsMgmt\\What-is-Azure-Rights-Management-.md"
+  ],
+  "a709012cf7ae7d86e39592be3c3cbee0e7661f85": [
+    "mt\\ems\\ems\\AADRightsMgmt\\includes\\aad_rightsmanagement_1_md.md"
+  ],
+  "ac3957493a902bc7cab4bc7ff8cf9afbf89912fc": [
+    "mt\\ems\\ems\\AADRightsMgmt\\includes\\aad_rightsmanagement_2_md.md"
+  ],
+  "dfd44ddb531b7821ce3a463b0f53e51f39986941": [
+    "mt\\ems\\ems\\AADRightsMgmt\\includes\\o365_1_md.md"
+  ],
+  "0a15bb739e18e39ccc7fbe0182b7ae465e04c9a4": [
+    "mt\\ems\\ems\\AADRightsMgmt\\includes\\o365_2_md.md"
+  ],
+  "b6e964b1fb44e8e046ccfb2b26736ab9bfbdaf24": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_DLPExample.png"
+  ],
+  "a8e817c884c0d979d45e2298ad42bd5062539919": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_DLPProtectedEmail.png"
+  ],
+  "4c492dd50cca6146ed856fec32c0b41c246c6e36": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_DLPUnprotectedEmail.png"
+  ],
+  "3be0bd8b442d0ded6a4cbeee5f5fe32f18282cc2": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_ExampleFCI_Configuration.png"
+  ],
+  "9ea9bb7453b6a38284e6c2be11d762c092a15be3": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_FCI_Connector.png"
+  ],
+  "e84f67759d59796d1911f31826f7386555d4f414": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_FCI_Email.png"
+  ],
+  "0c772653ab722c6d9921310918f8adce63f92bfd": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_StoryboardActivate.png"
+  ],
+  "787d5feed4aa1de7c61bda74db542271389b6f2c": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_StoryboardEmaill1.PNG"
+  ],
+  "8182786658a5308cb246c5780b235e5de0a1f648": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_StoryboardEmaill2.PNG"
+  ],
+  "d9f0314d5243503acd00df238ce5d315b513633d": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_StoryboardEmaill3.PNG"
+  ],
+  "8db60d8f88bdd42a9df19a80d84f93e8bc57eb04": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_StoryboardEmaill4.PNG"
+  ],
+  "dd1e218c9f2e427c5a3cb153d76478f09a1c2bb2": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_StoryboardSPO_1.png"
+  ],
+  "49c6dacd36a7ead895f9089118cf60cacdb26d8f": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_StoryboardSPO_2.PNG"
+  ],
+  "8e00c7c29ea4034042f2ab548619f141e659804e": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_StoryboardSPO_3.png"
+  ],
+  "df64a7d340fab235878695b48dfea7f58e4b468d": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_TemplatesPortal.png"
+  ],
+  "a7d52d881e293f35c8dfe37fa65f4d021dc0ec93": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_TemplatesPortal_ExplorerWord.png"
+  ],
+  "5ec639eaaf1c2288b242edcd3755f4329dbc4b86": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\AzRMS_TemplatesSettings.png"
+  ],
+  "88e697641696002884880857174a50a15d094640": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\RMS_BYOK_cloud.png"
+  ],
+  "61ce88571236a26e129e79ae8af9b3ed238459a3": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\RMS_BYOK_noExchange.png"
+  ],
+  "cc30bb9a04aba3747282a3aba9ab8d668e263c0b": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\RMS_BYOK_onprem.png"
+  ],
+  "c91e5ca163103359c297261b768403f061f66ec9": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\RMS_connector.png"
+  ],
+  "585821560e111abdc47ef6167126b34c4c81cd34": [
+    "mt\\ems\\ems\\AADRightsMgmt\\media\\RMS_Logging.gif"
+  ],
+  "05dad7e0a2a7e0147e0f799c690c96300a536164": [
+    "mt\\ems\\ems\\ATA_Content\\Appendix-C--Sample-Advanced-Threat-Analytics-deployment-diagrams.md"
+  ],
+  "c1997e6bf6f3feb859c136e49602ce5ab5f8e864": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Architecture.md"
+  ],
+  "7fc5660911c7adef1498266cd2a565205887b8d9": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Capacity-Planning.md"
+  ],
+  "8760dae3edf290d076ee6cf29b06cee6473726f3": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-database-maintenance.md"
+  ],
+  "494cfea6d1599ce39c907fac33318d9e40c67788": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Database-Management.md"
+  ],
+  "851b1f091bc2e999ea7fa870e6838ae0c09f9c36": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Deployment-Guide.md"
+  ],
+  "edc057622e5a35b98c49203228b2c58a946fdb48": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-FAQ.md"
+  ],
+  "c74dfe7e5564f3529d1f32e3ef85d902e210682f": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Health-Center.md"
+  ],
+  "b44c7efa47b77d7860e6fab1210749003e7b7a51": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Installation.md"
+  ],
+  "8b05c5aada7a3635d363d120098fce5e8b724715": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Operations-Guide.md"
+  ],
+  "a88d64039559dd5c920901484799231c4e704bbb": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Planning-and-Requirements.md"
+  ],
+  "08c1655cf574d38aeda2c8734ed3b5bf2f310a96": [
+    "mt\\ems\\ems\\ATA_Content\\ATA-Release-Notes.md"
+  ],
+  "c75172ae5e8a2a9d5f7421fd050738272a4781bd": [
+    "mt\\ems\\ems\\ATA_Content\\Configure-Event-Collection.md"
+  ],
+  "5762614c79bf4b87ccac54d2b84bcc5b4c851901": [
+    "mt\\ems\\ems\\ATA_Content\\Configure-Port-Mirroring.md"
+  ],
+  "4c8a6923f98ba243bb0e6dfb5ffb1b0c7668a78b": [
+    "mt\\ems\\ems\\ATA_Content\\Manage-Telemetry-Settings.md"
+  ],
+  "d14d3260e9ee90dd3735400aabdc58c15755f356": [
+    "mt\\ems\\ems\\ATA_Content\\Microsoft-Advanced-Threat-Analytics.md"
+  ],
+  "3384074ae710faf822817fd3daf668b4946c9718": [
+    "mt\\ems\\ems\\ATA_Content\\Modifying-ATA-Configuration.md"
+  ],
+  "1a4a94436047c8e456d218423fecd10d033034e7": [
+    "mt\\ems\\ems\\ATA_Content\\Validate-Port-Mirroring.md"
+  ],
+  "7c3895f71132df891a61de46ac99339605d1b067": [
+    "mt\\ems\\ems\\ATA_Content\\Working-with-ATA-Alerts.md"
+  ],
+  "3931c2a77a96a37ebdc35686b1c0f9b61f4ae8dd": [
+    "mt\\ems\\ems\\ATA_Content\\Working-with-ATA-Detection-Settings.md"
+  ],
+  "2dc79f2e6e5b6495ac78c14986a0c0ab12c12851": [
+    "mt\\ems\\ems\\ATA_Content\\Working-with-Suspicious-Activities.md"
+  ],
+  "1ded20cc2502bd66eb190ad11fd4b9a49cbf19ad": [
+    "mt\\ems\\ems\\ATA_Content\\Working-with-the-ATA-Console.md"
+  ],
+  "b80e59ea32cf4bfb769bb443e68460e405b60eee": [
+    "mt\\ems\\ems\\Intune_App_SDK\\Benefits-of-Intune-App-SDK.md"
+  ],
+  "910c5563d3d54eaf83b9349e93f81bf4e8d4c150": [
+    "mt\\ems\\ems\\Intune_App_SDK\\Getting-Started-and-FAQ.md"
+  ],
+  "352d4f96cd94605894d29e661cf8b86c999cac51": [
+    "mt\\ems\\ems\\Intune_App_SDK\\Microsoft-Intune-App-SDK.md"
+  ],
+  "5001c506ea49b5d9f9a23babe651341400502fef": [
+    "mt\\ems\\ems\\RMS_Client\\Active-Directory-Rights-Management-Services-Mobile-Device-Extension.md"
+  ],
+  "60f02ac024c2da4d4b7ad642127f8df36e5e11c2": [
+    "mt\\ems\\ems\\RMS_Client\\Dialog-box-options-for-the-Rights-Management-sharing-application.md"
+  ],
+  "a66709b32003a9a2d8d39d2dff4ecfa0cc6bbdc0": [
+    "mt\\ems\\ems\\RMS_Client\\Download-and-install-the-Rights-Management-sharing-application.md"
+  ],
+  "a1e642b331a137e12afa2977e0c2990e96c0f67f": [
+    "mt\\ems\\ems\\RMS_Client\\End-User-License-Agreement-for-Microsoft-RMS-sharing-application.md"
+  ],
+  "a6c9d2361903ec0ea51d5a2d73fa7baf65c5401b": [
+    "mt\\ems\\ems\\RMS_Client\\Microsoft-Rights-Management-sharing-application-user-guide---original-publication.md"
+  ],
+  "19f53e16d725dede292480da8500730a8d004d73": [
+    "mt\\ems\\ems\\RMS_Client\\Privacy-Statement-for-Microsoft-Rights-Management-in-RMS-Enlightened-Applications.md"
+  ],
+  "c7be143dbdf8966f0c9005143d5fcdaaa18344ee": [
+    "mt\\ems\\ems\\RMS_Client\\Protect-a-file-on-a-device--protect-in-place--by-using-the-Rights-Management-sharing-application.md"
+  ],
+  "6f04ce05d1d735a19e8b9253dfbdbfda74467820": [
+    "mt\\ems\\ems\\RMS_Client\\Protect-a-file-that-you-share-by-email-by-using-the-Rights-Management-sharing-application.md"
+  ],
+  "953425ceb6735f4a035a65caa09d937c983721a6": [
+    "mt\\ems\\ems\\RMS_Client\\Remove-protection-from-a-file-by-using-the-Rights-Management-sharing-application.md"
+  ],
+  "b952f28b7176f4a1160b91dfe38fb8be5c855627": [
+    "mt\\ems\\ems\\RMS_Client\\Requirements-for-Azure-Rights-Management.md"
+  ],
+  "af9b04a1b66664051c6d032d9d6c1b2a6e9c191d": [
+    "mt\\ems\\ems\\RMS_Client\\Revised-Version-2--Rights-Management-sharing-application-user-guide---working-version--sandbox-only.md"
+  ],
+  "6b6f6a5f8a4ed96c1ef73081bedd9e02dd65a821": [
+    "mt\\ems\\ems\\RMS_Client\\Revised-Version-3--Microsoft-Rights-Management-sharing-application-guide.md"
+  ],
+  "25d13397511c1189dbe2f2c8149d334c779ad45a": [
+    "mt\\ems\\ems\\RMS_Client\\Rights-Management--RMS--Client.md"
+  ],
+  "25da2b52f5fadb89516b26d740abb7f2c737e9b1": [
+    "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application--Version-release-history.md"
+  ],
+  "9448c1debdf4f4400b4dc2a1dd5670d56b2561b3": [
+    "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-administrator-guide.md"
+  ],
+  "c91f502109d0cd44a8fd7df5262fa8947dfbed5d": [
+    "mt\\ems\\ems\\RMS_Client\\Rights-Management-Sharing-Application-for-Windows.md"
+  ],
+  "eaaeb7204cb981eef8d7683ab4ce8cc83849dc73": [
+    "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-user-guide---revision-for-single-topic.md"
+  ],
+  "db8242cb6dbfd4802c0baaa8a6d8b9a569e0271c": [
+    "mt\\ems\\ems\\RMS_Client\\Rights-Management-sharing-application-user-guide.md"
+  ],
+  "9501804aeab0605fe103bb1216558cf2f18c1e26": [
+    "mt\\ems\\ems\\RMS_Client\\RMS-Client-Deployment-Notes.md"
+  ],
+  "6abc2fd11a1351653230536c59839ef47980f0bf": [
+    "mt\\ems\\ems\\RMS_Client\\RMS-Protection-with-Windows-Server-File-Classification-Infrastructure--FCI-.md"
+  ],
+  "4ba8705c0670ff06930f21ba9ffc405fb0b9e46b": [
+    "mt\\ems\\ems\\RMS_Client\\Track-and-revoke-your-documents-when-you-use-the-RMS-sharing-application.md"
+  ],
+  "f18801a8f6421936c0bf81b853de4adbc01d3838": [
+    "mt\\ems\\ems\\RMS_Client\\Use-keyboard-shortcuts-in-the-Rights-Management-sharing-application.md"
+  ],
+  "a8d28a654b3a3d2a73cb08d2fbc7eadcdb113796": [
+    "mt\\ems\\ems\\RMS_Client\\View-and-use-files-that-have-been-protected-by-Rights-Management.md"
+  ],
+  "fda3b65d65ea2ff7b499558b52672aaa0f77e34d": [
+    "mt\\ems\\ems\\RMS_Client\\Welcome-to-Microsoft-RMS!-Test.md"
+  ],
+  "af34603c48655d487a622c003822bb7981f49dfa": [
+    "mt\\ems\\ems\\RMS_Client\\Welcome-to-Microsoft-RMS!.md"
+  ],
+  "e0d5b3dc765e34dd1337a26021fec5ad2c15ee3f": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_AccessKeys.png"
+  ],
+  "abfc58ece506a50ac01a4ab5befab366e51fcaf0": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_EmailMessage.PNG"
+  ],
+  "f7232165f1435faeee2789a436761a793d19649d": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_ExplorerTrackUsage.png"
+  ],
+  "43d58b12a759c2bb702d4cbfa5cb0914355a908b": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_OfficeToolbarTrackUsage.png"
+  ],
+  "d9a1fc03a569ad08df142c73b01a99e4fd38b428": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_OutlookMessageTrackUsage.png"
+  ],
+  "102cb170f5a005428addaa17f2e0db1e5aaf014f": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_OutlookTrackUsage.png"
+  ],
+  "5f6737d70c74ca955eded6ff567eded8ba1d270d": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_Pfile.png"
+  ],
+  "b1830be97e731a023e8772c68efbbb97a1992d91": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_PfilePermission.png"
+  ],
+  "66482e461455df133678a4383174853a0cae0374": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_RemoveProtection.png"
+  ],
+  "71fccc1bc786ef0bbc1b31a296d4eb7e0a128996": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_RestrictedAccess.png"
+  ],
+  "e9aeaad866a1fa39ce2e552c38508228b875f16a": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_ShareProtectedMenu.png"
+  ],
+  "9899efd36ea2f4c1cbeacecf1db2ee8d5a9e73e7": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_SP_CompanyDefined.png"
+  ],
+  "ff2686fba49b43c16be4995de55336fe6902f101": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_SP_OfficeToolbar.png"
+  ],
+  "604b4b57e41714f7dc0dbe098f6c8432d9cbc7a7": [
+    "mt\\ems\\ems\\RMS_Client\\media\\ADRMS_MSRMSApp_SP_OutlookToolbar.png"
   ]
 }
