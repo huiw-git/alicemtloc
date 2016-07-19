@@ -20,7 +20,7 @@ translation.priority.ht:
   - zh-tw
 ---
 # Vollbild-Bild: eine SharePoint-gesch&#252;tzten Dokuments
-![Vollbild: Durch SharePoint geschütztes Dokument](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_3.PNG "AzRMS_StoryboardSPO_3")
+![Vollbild: Durch SharePoint geschütztes Dokument](../../ems/AADRightsMgmt/media/AzRMS_StoryboardSPO_3.png "AzRMS_StoryboardSPO_3")
 
 Zurück zu [Azure RMS in Aktion: Geschützte Bibliotheken mit SharePoint Online](http://technet.microsoft.com/library/jj585026.aspx#BKMK_Example_SharePoint).
 
