@@ -113,7 +113,7 @@ Wenn Sie keine Fehler angezeigt, wenn Sie versuchen, Dateien zu schützen, finde
 
 2.  Geben Sie die Optionen, die für diese Datei in der **geschütztes freigeben** (Dialogfeld), und klicken Sie dann auf **Senden**.
 
-    ![Geschütztes Freigeben (Dialogfeld)](../../ "ADRMS_MSRMSAPP_SP_ShareProtected")
+    ![Geschütztes Freigeben (Dialogfeld)](../../ems/RMS_Client/media/ADRMS_MSRMSAPP_SP_ShareProtected.png "ADRMS_MSRMSAPP_SP_ShareProtected")
 
     > [!NOTE]
     > Weitere Informationen zu den Optionen in diesem Dialogfeld finden Sie unter der **Geben Sie die Optionen im Dialogfeld Rights Management** Anweisungen in der [What do you want to do?](../../ems/RMS_Client/Rights-Management-sharing-application-user-guide---revision-for-single-topic.md#BKMK_UsingMSRMSApp) dieses Handbuchs.

@@ -148,7 +148,7 @@ Der einfachste Weg, eine Datei zu schützen, ist die Verwendung von Vorlagen, ab
 
 Klicken Sie zum Schutz einer Datei mit den vom Benutzer autorisierten Berechtigungen mit der rechten Maustaste auf die Datei, klicken Sie auf **Direkt schützen**, und klicken Sie auf **Benutzerdefinierte Berechtigungen**. Der folgende Bildschirm wird angezeigt:
 
-![Benutzerdefinierter Schutz](../../ "ADRMS_MSRMSApp_ProtectCustom")
+![Benutzerdefinierter Schutz](../../ems/RMS_Client/media/ADRMS_MSRMSApp_ProtectCustom.png "ADRMS_MSRMSApp_ProtectCustom")
 
 Geben Sie die E-Mail-Adressen der Benutzer ein, verwenden Sie den Schieberegler,um die Berechtigungen für die Datei auszuwählen, und klicken Sie dann auf **Übernehmen**.
 
@@ -161,12 +161,12 @@ Wenn Sie eine durch vom Benutzer autorisierten Schutz geschützte Textdatei anze
 
 Bei Dateien, die durch generischen Schutz geschützt sind (Dateiformat PFILE), werden auf dem Bestätigungsbildschirm anstelle des Namens der Vorlage, die zum Schutz der Datei verwendet wurde, die vom Benutzer festgelegten speziellen Rechte oder Berechtigungen angezeigt (siehe folgende Abbildung).
 
-![Geschützte Datei nutzen](../../ "ADRMS_MSRMSApp_SP_ConsumePfile")
+![Geschützte Datei nutzen](../../ems/RMS_Client/media/ADRMS_MSRMSApp_SP_ConsumePfile.png "ADRMS_MSRMSApp_SP_ConsumePfile")
 
 ### <a name="BKMK_ShareProtected"></a>Schützen von per E-Mail freigegebenen Inhalten
 Wenn Sie Inhalte schützen möchten, die mithilfe einer E-Mail-Nachricht freigegeben werden sollen, klicken Sie mit der rechten Maustaste auf die Datei, und klicken Sie auf **Geschützt freigeben**. Der folgende Bildschirm wird angezeigt:
 
-![Geschütztes Freigeben (Dialogfeld)](../../ "ADRMS_MSRMSAPP_SP_ShareProtected")
+![Geschütztes Freigeben (Dialogfeld)](../../ems/RMS_Client/media/ADRMS_MSRMSAPP_SP_ShareProtected.png "ADRMS_MSRMSAPP_SP_ShareProtected")
 
 Geben Sie die E-Mail-Adressen der Benutzer auf der Liste ein, wählen Sie mithilfe des Schiebereglers Berechtigungen für die Datei aus, und klicken Sie auf **Senden**. Anschließend erstellt Outlook eine E-Mail-Nachricht für die Empfänger mit einer kurzen Meldung, die Sie ändern können, und hängt die geschützte Datei an. Die ursprüngliche Datei ist nicht geschützt.
 

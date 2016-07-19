@@ -432,7 +432,7 @@ Diese Server mit SharePoint 2010 müssen eine Version des MSRDM-Clients installi
 
    Wenn Sie diese Schritte befolgen, müssen Sie SharePoint durch Angabe des Connectors Verwendung konfigurieren **verwenden diesen RMS-Server**, und geben Sie dann den Lastenausgleich Connector-URL, die Sie konfiguriert. Geben Sie das Protokollpräfix (HTTP:// oder HTTPS://) und den Namen des Connectors, die Sie in DNS für den Lastenausgleich-Adresse Ihres Connectors definiert. Der Connectorname https://connector.contoso.com ist, wird z. B. die Konfiguration wie im folgenden Bild aussehen:
 
-   ![Konfigurieren von SharePoint Server für den Connector](../../ "AzRMS_SharePointConnector")
+   ![Konfigurieren von SharePoint Server für den Connector](../../ems/AADRightsMgmt/media/AzRMS_SharePointConnector.png "AzRMS_SharePointConnector")
 
    Nach einer SharePoint-Farm IRM aktiviert ist, können Sie IRM für einzelne Bibliotheken aktivieren, mit der **Information Rights Management** option der **Bibliothekseinstellungen** Seite für jede der Bibliotheken.
 

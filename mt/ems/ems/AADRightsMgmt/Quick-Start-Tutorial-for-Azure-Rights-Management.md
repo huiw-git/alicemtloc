@@ -23,7 +23,7 @@ translation.priority.ht:
 # Schnellstart-Lernprogramm f&#252;r Azure Rights Management
 Verwenden Sie dieses Lernprogramm, um Microsoft Azure Rights Management (auch bekannt als Azure RMS) in 5 Schritten und weniger als 15 Minuten für Ihre Organisation zu testen. In diesem Lernprogramm aktivieren Sie den Dienst, versenden ein E-Mail-Dokument vertraulich und sicher an einen Empfänger in einer anderen Organisation und verfolgen, wann das Dokument geöffnet wird. Während der Übermittlung per E-Mail ist das vertrauliche Dokument verschlüsselt und kann nur vom jeweiligen Empfänger gelesen werden. Es gelten die vom Absender festgelegten Berechtigungen.
 
-![Alle 5 Azure RMS Quick Start-Lernprogramme](../../ "AzRMS_QuickStartStepsAll")
+![Alle 5 Azure RMS Quick Start-Lernprogramme](../../ems/AADRightsMgmt/media/AzRMS_QuickStartStepsAll.png "AzRMS_QuickStartStepsAll")
 
 Dieses Lernprogramm richtet sich an IT-Administratoren und Berater, die Azure Rights Management als Datenschutzlösung für eine Organisation evaluieren. In einer Produktionsumgebung führt der Administrator die Schritte zum Aktivieren des Diensts und der Endbenutzer die Schritte zum Senden des Dokuments aus. Beide Vorgehensweisen sind Teil dieses Lernprogramms und veranschaulichen das End-to-End-Szenario für das sichere Versenden vertraulicher Dokumente an Empfänger, die einer anderen Organisation angehören. Falls beim Durcharbeiten dieses Lernprogramms Probleme auftreten, senden Sie eine E-Mail an [AskIPTeam](mailto:askipteam@microsoft.com?subject=Having%20problems%20with%20the%20Quick%20Start%20tutorial). Wir helfen Ihnen gerne weiter.
 
@@ -39,7 +39,7 @@ Voraussetzungen für dieses Lernprogramm:
 
 Los geht’s!
 
-![Erstes Azure RMS Quick Start-Lernprogramm](../../ "AzRMS_QuickStartSteps1")
+![Erstes Azure RMS Quick Start-Lernprogramm](../../ems/AADRightsMgmt/media/AzRMS_QuickStartSteps1.png "AzRMS_QuickStartSteps1")
 
 Auch wenn Sie über ein Abonnement mit Unterstützung von Azure Rights Management verfügen, ist der Dienst standardmäßig deaktiviert. Zur Aktivierung können Sie entweder das Office 365 Admin Center oder das Azure-Portal verwenden:
 
@@ -91,7 +91,7 @@ Obwohl hier nicht auf benutzerdefinierte Vorlagen eingegangen wird, müssen Sie 
 |-------------------------------|-----------------------------|
 |Aktivieren von Rights Management und Festlegen der Benutzer, die Dateien und E-Mails nach der Dienstaktivierung schützen können   → <br /> <br />|[Aktivieren von Azure Rights Management](../../ems/AADRightsMgmt/Activating-Azure-Rights-Management.md) <br /> <br />|
 |Standardvorlagen und Erstellung neuer benutzerdefinierter Vorlagen   → <br /> <br />|[Konfigurieren benutzerdefinierter Vorlagen für Azure Rights Management](../../ems/AADRightsMgmt/Configuring-Custom-Templates-for-Azure-Rights-Management.md) <br /> <br />|
-![Zweites Azure RMS Quick Start-Lernprogramm](../../ "AzRMS_QuickStartSteps2")
+![Zweites Azure RMS Quick Start-Lernprogramm](../../ems/AADRightsMgmt/media/AzRMS_QuickStartSteps2.png "AzRMS_QuickStartSteps2")
 
 Die Rights Management-Freigabeanwendung (auch bekannt als "RMS-Freigabe-App") ist keine Voraussetzung für Azure Rights Management, sie wird jedoch für alle Computer und mobilen Geräte empfohlen, die Azure Rights Management unterstützen. Die RMS-Freigabeanwendung wird durch Installation eines Office-Add-Ins in Office-Anwendungen integriert. Die Benutzer können Dateien somit direkt über das Menüband schützen. Außerdem ermöglicht sie den generischen Schutz aller Dateitypen, die nicht systemintern von Azure Rights Management unterstützt werden, und bietet eine Dokumentenverfolgungs-Website, auf der Benutzer geschützte Dateien verfolgen und widerrufen können. Die Dokumentenverfolgungs-Website kommt später in diesem Lernprogramm zum Einsatz.
 
@@ -117,7 +117,7 @@ Sie können nun mit dem Schutz von Dateien beginnen, deren Inhalt Sie ausgewähl
 |Lokale Installation der Rights Management-Freigabeanwendung für Windows und Anweisungen für Benutzer   → <br /> <br />|[Rights Management-Freigabeanwendung – Benutzerhandbuch](http://technet.microsoft.com/library/dn339006.aspx) <br /> <br />|
 |Skriptgesteuerte Installation der Rights Management-Freigabeanwendung für Windows und weiterführende technische Informationen   → <br /> <br />|[Rights Management-Freigabeanwendung – Administratorhandbuch](http://technet.microsoft.com/library/dn339003.aspx) <br /> <br />|
 |Unterschied zwischen systemeigenem und generischem Schutz   → <br /> <br />|[Worin unterscheiden sich generischer Schutz und integrierter (systemeigener) Schutz?](https://technet.microsoft.com/library/dn574738.aspx) <br /> <br />|
-![Drittes Azure RMS Quick Start-Lernprogramm](../../ "AzRMS_QuickStartSteps3")
+![Drittes Azure RMS Quick Start-Lernprogramm](../../ems/AADRightsMgmt/media/AzRMS_QuickStartSteps3.png "AzRMS_QuickStartSteps3")
 
 Für diesen Schritt erstellen und speichern Sie zuerst ein Word-Dokument, das Sie schützen möchten, und geben ihm den Namen **Confidential.docx**. In diesem Lernprogramm spielt der enthaltene Text keine Rolle. Etwas Text ist jedoch sinnvoll, damit Sie einfacher überprüfen können, ob der Inhalt vom autorisierten Empfänger gelesen werden kann. Beispielsweise können Sie folgenden Text eingeben: **Wenn dieser Text in der E-Mail-Anlage lesbar ist, hat der Absender eine mit Azure RMS geschützte Datei erfolgreich freigegeben.**
 
@@ -158,7 +158,7 @@ Nachdem Sie Ihr geschütztes Dokument nun gesendet haben, bitten Sie die Empfän
 |-------------------------------|-----------------------------|
 |Umfassende Anweisungen und alternative Methoden zum Schutz der per E-Mail freigegebenen Dateien   → <br /> <br />|[Schützen einer per E-Mail freigegebenen Datei mithilfe der Rights Management-Freigabeanwendung](https://technet.microsoft.com/library/dn574735.aspx) <br /> <br />|
 |Optionen im Dialogfeld **Geschützt freigeben**→ <br /> <br />|[Dialogfeldoptionen der Rights Management-Freigabeanwendung](https://technet.microsoft.com/library/dn574738.aspx) <br /> <br />|
-![Viertes Azure RMS Quick Start-Lernprogramm](../../ "AzRMS_QuickStartSteps4")
+![Viertes Azure RMS Quick Start-Lernprogramm](../../ems/AADRightsMgmt/media/AzRMS_QuickStartSteps4.png "AzRMS_QuickStartSteps4")
 
 Die Empfänger können das als E-Mail-Anlage gesendete, geschützte Dokument auf verschiedenen Geräten lesen. Die Geräte umfassen iPads, iPhones, Android-Tablets und -Smartphones sowie Macintosh- und Windows-Computer.
 
@@ -188,7 +188,7 @@ Nachdem der Empfänger die Anlage nun geöffnet und optional an einen anderen Em
 |Umfassende Erläuterung dazu, wie die durch Azure Rights Management geschützten Dateien angezeigt werden   → <br /> <br />|[Anzeigen und Verwenden der durch Rights Management geschützten Dateien](https://technet.microsoft.com/library/dn574741.aspx) <br /> <br />|
 |Kostenloses RMS for Individuals-Abonnement   → <br /> <br />|[RMS für Einzelpersonen und Azure Rights Management](../../ems/AADRightsMgmt/RMS-for-Individuals-and-Azure-Rights-Management.md) <br /> <br />|
 |Informationen zu den beiden Versionen der an die E-Mail angehängten Datei   → <br /> <br />|[Erläuterung zur automatisch erstellten PPDF-Datei](https://technet.microsoft.com/library/dn574738.aspx) <br /> <br />|
-![Fünftes Azure RMS Quick Start-Lernprogramm](../../ "AzRMS_QuickStartSteps5")
+![Fünftes Azure RMS Quick Start-Lernprogramm](../../ems/AADRightsMgmt/media/AzRMS_QuickStartSteps5.png "AzRMS_QuickStartSteps5")
 
 > [!NOTE]
 > Für diesen Schritt benötigen Sie ein Abonnement, das die Dokumentenverfolgung unterstützt. Ob Ihr Abonnement die Dokumentenverfolgung umfasst, können Sie anhand der Informationen unter [Vergleich der Angebote zu den Rights Management Services (RMS)](https://technet.microsoft.com/dn858608.aspx) feststellen.

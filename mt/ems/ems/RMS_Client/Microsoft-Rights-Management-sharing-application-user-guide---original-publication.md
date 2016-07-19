@@ -174,7 +174,7 @@ Benutzer verfasst Schutz kann verwendet werden, um Folgendes zu erzielen:
 
 Um eine Datei mit autorisierten Benutzer Berechtigungen zu schützen, mit der rechten Maustaste in der Datei, klicken Sie auf **direkt schützen** und klicken Sie auf **benutzerdefinierte Berechtigungen**. Der folgende Bildschirm wird gestartet:
 
-![Benutzerdefinierter Schutz](../../ "ADRMS_MSRMSApp_ProtectCustom")
+![Benutzerdefinierter Schutz](../../ems/RMS_Client/media/ADRMS_MSRMSApp_ProtectCustom.png "ADRMS_MSRMSApp_ProtectCustom")
 
 Geben Sie die e-Mail-Adressen der Liste der Benutzer, mithilfe des Schiebereglers wählen Sie die Berechtigungen für die Datei, und klicken Sie auf **Übernehmen**.
 
@@ -193,12 +193,12 @@ Beim Anzeigen einer geschützten Text-Datei, die Benutzer-Schutz angewendet wurd
 
 Für Dateien, die mit dem generischen Schutz ("pFile")-Dateiformat geschützt sind, werden Sie bestimmte Rechte oder Berechtigungen, die vom Benutzer im Bestätigungsfenster nicht mit dem Namen der Vorlage, die verwendet wurde, um die Datei zu schützen, wie in der folgenden Abbildung dargestellt angezeigt.
 
-![Geschützte Datei nutzen](../../ "ADRMS_MSRMSApp_SP_ConsumePfile")
+![Geschützte Datei nutzen](../../ems/RMS_Client/media/ADRMS_MSRMSApp_SP_ConsumePfile.png "ADRMS_MSRMSApp_SP_ConsumePfile")
 
 ### <a name="BKMK_ShareProtected"></a>Freigeben von geschütztem Inhalt
 Schützen und Freigeben von Inhalten, müssen mit der rechten Maustaste in der Datei, und klicken Sie auf **Freigeben geschützter**. Der folgende Bildschirm wird gestartet:
 
-![Geschütztes Freigeben (Dialogfeld)](../../ "ADRMS_MSRMSAPP_SP_ShareProtected")
+![Geschütztes Freigeben (Dialogfeld)](../../ems/RMS_Client/media/ADRMS_MSRMSAPP_SP_ShareProtected.png "ADRMS_MSRMSAPP_SP_ShareProtected")
 
 Geben Sie die e-Mail-Adressen der Liste der Benutzer, mithilfe des Schiebereglers wählen Sie die Berechtigungen für die Datei, und klicken Sie auf **Senden**. Die Anwendung startet Outlook mit einer vor e-Mail, mit der geschützten Datei angefügt. Die ursprüngliche Datei wird nicht geschützt.
 
